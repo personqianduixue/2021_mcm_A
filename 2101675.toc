@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of problem}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Our Work}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}General Assumptions and Symbol Description}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}General Assumptions}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Symbol Description}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Establishment of Single Species Model}{3}{section.3}%
+\contentsline {section}{\numberline {4}Establishment of Multi-Species Model}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Lotka-Volterra Model}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Improved Lotka-Volterra model}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Analysis of Multi-Species Model}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Relationship between the number of ground litter and growth rate}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Relationship between the number of ground litter and moisture tolerance}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Analysis of Model Result}{13}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Total Trend}{13}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Short-term and Long-term trends}{14}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.4}Sensitivity of rapid environmental fluctuations}{14}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Prediction of Relative Advantages and Disadvantages}{15}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Prediction to various environmental conditions}{16}{section.6}%
+\contentsline {section}{\numberline {7}Effects of fungal community diversity}{16}{section.7}%
+\contentsline {section}{\numberline {8}Sensitivity Analysis}{17}{section.8}%
+\contentsline {section}{\numberline {9}Strengths,Weaknesses and improvement}{18}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Strengths}{18}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Weaknesses and Improvement}{18}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Conclusion}{18}{section.10}%
+\contentsline {section}{\numberline {11}References}{19}{section.11}%
+\contentsline {section}{\numberline {12}Content in Textbook}{20}{section.12}%
